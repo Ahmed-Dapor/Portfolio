@@ -1,14 +1,15 @@
-import Image from "next/image";
+
 import Hero from "./Component/Hero";
 import { FloatingNav } from "./Component/ui/FloatingNav";
-import { FaHome } from "react-icons/fa";
+
 import Grid from "./Component/Grid";
-import RecentProjects from "./Component/RecentProjects";
+
 import { navItems } from "@/data";
 import Clients from "./Component/Clients";
 import Experience from "./Component/Experience";
 import Approach from "./Component/Approach";
 import Footer from "./Component/Footer";
+import RecentProjects from "./Component/RecentProjects";
 
 export default function Home() {
   return (

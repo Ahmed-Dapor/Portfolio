@@ -32,7 +32,7 @@ const Hero = () => {
             />
 
             <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl mt-4'>
-              Hi,I'm Ahmed Salah ,A Pasionate Web Developer From Egypt 
+              Hi,I`&apos;`m Ahmed Salah ,A Pasionate Web Developer From Egypt 
 
             </p>
             <a href="#about">
