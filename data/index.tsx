@@ -15,6 +15,7 @@ export const navItems = [
       titleClassName: "justify-end",
       img: "/b1.svg",
       spareImg: "",
+      
     },
     {
       id: 2,
@@ -77,6 +78,7 @@ export const navItems = [
       img: "/weather.svg.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
       link: "https://ahmed-dapor.github.io/weather-project/",
+      
     },
     {
       id: 2,
@@ -205,13 +207,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link:"https://www.linkedin.com/in/ahmed-salah-emam-08540a322/?lipi=urn%3Ali%3Apage%3Ad_flagship3_resumebuilder%3B%2Bhgo5zuuSp6GevMk%2F%2FXa%2Bw%3D%3D"
     },
     {
       id: 2,
       img: "/twit.svg",
+      link:""
     },
     {
       id: 3,
       img: "/link.svg",
+      link:"https://www.linkedin.com/in/ahmed-salah-emam-08540a322/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPehuXZbRQySqIrmJie87DA%3D%3D"
     },
   ];
